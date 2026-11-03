@@ -1,3 +1,4 @@
 export function welcome(name) {
-  return `Hello, ${name}!`;
+  const who = name?.trim() || "friend";
+  return `Hey, ${who}! Welcome aboard.`;
 }
