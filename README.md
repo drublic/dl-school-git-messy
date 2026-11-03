@@ -3,3 +3,6 @@
 Tiny demo app for the Git workshop lab.
 
 Status: experimental
+
+## Feature notes
+Working on a warmer greeting.
